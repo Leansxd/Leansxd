@@ -1,7 +1,7 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 
 
-<a href="https://github.com/rshcan"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
+<a href="https://github.com/leansxd"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
 ┌──(leans@root)-[~/]
 └─$ cat las.py
@@ -17,7 +17,7 @@ def  __social__(self):
  └─$
 ```
 
-<p align="center"><img src="https://count.getloli.com/get/@:Ayhuuu" alt=":rsh" /></p>
+<p align="center"><img src="https://count.getloli.com/get/@:leansxd" alt=":las" /></p>
 
  
 
