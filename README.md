@@ -3,17 +3,17 @@
 
 <a href="https://github.com/rshcan"><img src="https://raw.githubusercontent.com/Ayhuuu/Ayhuuu/main/img/a.gif"></a>
 ```python
-┌──(resehe@root)-[~/]
-└─$ cat rsh.py
+┌──(leans@root)-[~/]
+└─$ cat las.py
 
-class rshcan:
+class leans:
 
 def  __social__(self):
- self.gtb = "https://github.com/rshcan"
- self.dsc = "rshcxn" 
- self.tlg = "rshcxn"
+ self.gtb = "https://github.com/leansxd"
+ self.dsc = "leansx" 
+ self.ig = "efewhesx"
   
- ┌──(resehe@root)-[~/]
+ ┌──(leans@root)-[~/]
  └─$
 ```
 
