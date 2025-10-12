@@ -10,7 +10,7 @@ class leans:
 
 def  __social__(self):
  self.gtb = "https://github.com/leansxd"
- self.dsc = "leansx" 
+ self.dsc = "highsfuck" 
  self.ig = "efewhesx"
   
  ┌──(leans@root)-[~/]
