@@ -8,10 +8,6 @@
   <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=Leansxd&color=red&style=for-the-badge" alt="profile views"/>
 </p>
-
----
-
-### 🧠 Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -21,9 +17,6 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
----
-
-### ⚡ Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leansxd&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=E65C00&title_color=E65C00" />
 </p>
@@ -32,9 +25,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leansxd&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=E65C00" />
 </p>
 
----
-
-### 🧩 Focus Areas
 <p align="center">
   <img src="https://img.shields.io/badge/FiveM%20Development-000000?style=for-the-badge&logo=rockstar%20games&logoColor=white" />
   <img src="https://img.shields.io/badge/UI/UX%20Design-1E1E1E?style=for-the-badge&logo=figma&logoColor=white" />
