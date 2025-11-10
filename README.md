@@ -1,6 +1,5 @@
 <div align="center">
-  <h3>『Kod yazarak dünyayı şekillendiriyorum』</h3>
-  <p><i>"Shaping the world by writing code"</i></p>
+  <p><i>"sleep is for the weak, work is for the brave"</i></p>
 </div>
 
 <div align="center">
@@ -14,14 +13,19 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://img.shields.io/badge/HTML/CSS-222222?style=for-the-badge&logo=html5&logoColor=FF2D00"/></td>
-      <td><img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=FF2D00"/></td>
       <td><img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=FF2D00"/></td>
+      <td><img src="https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=FF2D00"/></td>
+      <td><img src="https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=FF2D00"/></td>
     </tr>
     <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=FF2D00"/></td>
+      <td><img src="https://img.shields.io/badge/Tailwind-222222?style=for-the-badge&logo=tailwindcss&logoColor=FF2D00"/></td>
+      <td><img src="https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=FF2D00"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/React_Native-222222?style=for-the-badge&logo=react&logoColor=FF2D00"/></td>
       <td><img src="https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=node.js&logoColor=FF2D00"/></td>
       <td><img src="https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb&logoColor=FF2D00"/></td>
-      <td><img src="https://img.shields.io/badge/Flutter-222222?style=for-the-badge&logo=flutter&logoColor=FF2D00"/></td>
     </tr>
   </table>
 </div>
