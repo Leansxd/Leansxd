@@ -43,5 +43,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Leansxd&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF2D00&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs,prs&hide_title=false" alt="GitHub Stats" />
   <br><br>
-  <img src="https://img.shields.io/github/stars/Leansxd?style=for-the-badge&color=FF2D00&labelColor=222222&logo=github" alt="GitHub Stars">
 </div>
