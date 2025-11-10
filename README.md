@@ -42,24 +42,6 @@
   <img src="https://img.shields.io/badge/Discord_Bot_Development-black?style=for-the-badge"/>
 </div>
 
-<br>
-
-<div align="center">
-  <h4>💬 Yazılımcı Sözleri</h4>
-  <i>"Kod at, hata bul, tekrar dene, kafana takma."</i><br>
-  <i>"Sleep is for the weak, debug is for the brave."</i><br>
-  <i>"Stack Overflow benim ikinci beynim."</i><br>
-  <i>"Git commit etmeden uyumam."</i><br>
-  <i>"Kod yaz, kahve iç, tekrar yaz."</i><br>
-  <i>"Bug yok, sadece özellik var."</i><br>
-  <i>"Algoritmalar hayatın kısa yolları gibidir."</i><br>
-  <i>"Kodum çalışıyor, yeterli."</i><br>
-  <i>"Yapacak çok iş var, stack trace bekliyor."</i><br>
-  <i>"CTRL+C CTRL+V = hayatın özü."</i>
-</div>
-
-<br>
-
 <div align="center">
   <h4>📊 GitHub Stats</h4>
   <img src="https://github-readme-stats.vercel.app/api?username=Leansxd&show_icons=true&title_color=FF0000&text_color=FFFFFF&icon_color=FF2D00&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true&hide=issues,contribs,prs&hide_title=false" alt="GitHub Stats" />
