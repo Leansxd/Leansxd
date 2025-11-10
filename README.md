@@ -15,7 +15,7 @@
     <tr>
       <td><img src="https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react&logoColor=FF2D00"/></td>
       <td><img src="https://img.shields.io/badge/HTML-222222?style=for-the-badge&logo=html5&logoColor=FF2D00"/></td>
-<img src="https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3&logoColor=FF2D00" alt="CSS3"/>
+      <td><img src="https://img.shields.io/badge/CSS-222222?style=for-the-badge&logo=css3&logoColor=FF2D00"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript&logoColor=FF2D00"/></td>
