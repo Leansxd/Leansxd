@@ -5,7 +5,6 @@
 <div align="center">
   <a href="https://github.com/Leansxd"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=red" alt="GitHub"></a>
   <a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=red" alt="Discord"></a>
-  <img src="https://komarev.com/ghpvc/?username=Leansxd&style=for-the-badge&color=red" alt="Profile Views">
 </div>
 
 <br>
