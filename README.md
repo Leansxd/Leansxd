@@ -1,5 +1,5 @@
 <div align="center">
-  <p><i>"sleep is for the weak, work is for the brave"</i></p>
+  <p><i>"Valar Morghulis"</i></p>
 </div>
 
 <div align="center">
